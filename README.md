@@ -14,7 +14,7 @@ This repository contains the backend code for a Node.js Quiz application. It pro
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/iamshivanshyadav/Node.js-Quiz)
 ```
 
 2. Navigate to the project directory:
